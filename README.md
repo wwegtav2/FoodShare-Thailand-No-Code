@@ -7,6 +7,20 @@
 
 ---
 
+## 📅 Why Data Only Covers 2000–2023 / เหตุผลที่ข้อมูลมีแค่ปี 2000–2023
+
+- **Data Collection & Verification Lag**  
+  • English: Official food‐waste statistics are compiled, cleaned, and validated by the Pollution Control Department over many months. Reports for a given year (e.g. 2023) are typically published 6–12 months later, so 2024 and 2025 figures are not yet finalized.  
+  • ไทย: ข้อมูลขยะอาหารอย่างเป็นทางการ ต้องใช้เวลารวบรวม ตรวจสอบ และทำความสะอาดข้อมูลหลายเดือน รายงานปี 2023 จึงออกในกลางปี 2024 ข้อมูลปี 2024–2025 ยังอยู่ระหว่างการตรวจสอบ จึงยังไม่ประกาศออกมา
+
+- **Annual Reporting Cycle**  
+  • English: The PCD releases a “State of Pollution” report once per year. Each edition reviews data through the end of the previous calendar year. Therefore, the 2024 report (covering the full year 2024) will only appear in late 2025 or early 2026.  
+  • ไทย: กรมควบคุมมลพิษจัดทำรายงานปีละครั้ง โดยแต่ละฉบับจะสรุปข้อมูลจนถึงสิ้นปีปฏิทินก่อนหน้า จึงต้องรอรายงานปี 2024 ที่จะเผยแพร่ปลายปี 2025 หรือต้นปี 2026
+
+- **Practical Implication for Our App**  
+  • English: We use the latest available data (2000–2023) to illustrate trends and justify the need for FoodShare Thailand today. Future updates can incorporate 2024–2025 figures once published.  
+  • ไทย: เราใช้ข้อมูลล่าสุด (2000–2023) เพื่อแสดงแนวโน้มและเน้นความจำเป็นของ FoodShare Thailand ในปัจจุบัน ส่วนข้อมูลปี 2024–2025 จะนำมาอัปเดตเมื่อมีการประกาศอย่างเป็นทางการ
+
 ## 📋 Overview / ภาพรวม
 
 - **English**: FoodShare Thailand helps farmers, restaurants, and markets post surplus food that’s still edible. Buyers nearby browse, chat, and arrange pickups—all in one place.
