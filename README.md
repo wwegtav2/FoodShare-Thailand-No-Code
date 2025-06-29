@@ -34,7 +34,7 @@
 
 - All code was generated and refined with AI tools (Bolt.new’s AI Builder, prompt-driven).
 - Fully **open-source**: feel free to fork, adapt, and extend.
-- **โค้ดทั้งหมดสร้างด้วย AI** (Bolt.new AI Builder) และโครงการนี้เป็น **โอเพนซอร์ส** ใครก็สามารถนำไปพัฒนาต่อได้
+- **โค้ดทั้งหมดสร้างด้วย AI** ( https://bolt.new AI Builder) และโครงการนี้เป็น **โอเพนซอร์ส** ใครก็สามารถนำไปพัฒนาต่อได้
 
 ---
 
