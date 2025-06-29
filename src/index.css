@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Tiny5&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    font-family: 'Prompt', sans-serif !important;
+  }
+  
+  html {
+    font-family: 'Prompt', sans-serif !important;
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: 'Prompt', sans-serif !important;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Prompt', sans-serif !important;
+    line-height: 1.2;
+    font-weight: 600;
+  }
+  
+  p {
+    font-family: 'Prompt', sans-serif !important;
+    line-height: 1.75;
+  }
+  
+  button {
+    font-family: 'Prompt', sans-serif !important;
+  }
+  
+  input, textarea, select {
+    font-family: 'Prompt', sans-serif !important;
+  }
+  
+  div, span, a, label {
+    font-family: 'Prompt', sans-serif !important;
+  }
+  
+  code {
+    font-family: 'Prompt', sans-serif !important;
+  }
+  
+  .font-prompt {
+    font-family: 'Prompt', sans-serif !important;
+  }
+}
+
+@layer components {
+  .font-prompt {
+    font-family: 'Prompt', sans-serif !important;
+  }
+}
+
+@layer utilities {
+  .line-clamp-1 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+  }
+  
+  .line-clamp-2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+  
+  .line-clamp-3 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-100 dark:bg-gray-800;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 dark:bg-gray-600 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-400 dark:bg-gray-500;
+}
+
+/* Smooth transitions for theme switching */
+* {
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, font-family 0s !important;
+  font-family: 'Prompt', sans-serif !important;
+}
+
+/* Force font on all elements */
+body *, 
+html *, 
+#root *, 
+.App *,
+[class*="text-"],
+[class*="font-"] {
+  font-family: 'Prompt', sans-serif !important;
+}
