@@ -21,6 +21,8 @@
   • English: We use the latest available data (2000–2023) to illustrate trends and justify the need for FoodShare Thailand today. Future updates can incorporate 2024–2025 figures once published.  
   • ไทย: เราใช้ข้อมูลล่าสุด (2000–2023) เพื่อแสดงแนวโน้มและเน้นความจำเป็นของ FoodShare Thailand ในปัจจุบัน ส่วนข้อมูลปี 2024–2025 จะนำมาอัปเดตเมื่อมีการประกาศอย่างเป็นทางการ
 
+---
+
 ## 📋 Overview / ภาพรวม
 
 - **English**: FoodShare Thailand helps farmers, restaurants, and markets post surplus food that’s still edible. Buyers nearby browse, chat, and arrange pickups—all in one place.
