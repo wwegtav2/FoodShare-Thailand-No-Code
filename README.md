@@ -43,6 +43,7 @@
 - TypeScript
 - JavaScript
 - CSS
+- HTML
 - SDL (Schema Definition Language on Bolt.new)
 
 ---
